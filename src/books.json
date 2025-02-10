@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "published": 1960,
+    "isbn": "978-0061120084"
+  },
+  {
+    "id": 2,
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian, Political Fiction",
+    "published": 1949,
+    "isbn": "978-0451524935"
+  },
+  {
+    "id": 3,
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Romance, Fiction",
+    "published": 1813,
+    "isbn": "978-1503290563"
+  },
+  {
+    "id": 4,
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction, Tragedy",
+    "published": 1925,
+    "isbn": "978-0743273565"
+  },
+  {
+    "id": 5,
+    "title": "Moby-Dick",
+    "author": "Herman Melville",
+    "genre": "Adventure, Fiction",
+    "published": 1851,
+    "isbn": "978-1503280786"
+  },
+  {
+    "id": 6,
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Historical Fiction",
+    "published": 1869,
+    "isbn": "978-1505572849"
+  },
+  {
+    "id": 7,
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction, Coming-of-age",
+    "published": 1951,
+    "isbn": "978-0316769488"
+  },
+  {
+    "id": 8,
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy, Adventure",
+    "published": 1937,
+    "isbn": "978-0345339683"
+  },
+  {
+    "id": 9,
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "published": 2005,
+    "isbn": "978-0375842207"
+  },
+  {
+    "id": 10,
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian, Science Fiction",
+    "published": 1932,
+    "isbn": "978-0060850524"
+  }
+]
