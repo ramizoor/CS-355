@@ -1,0 +1,41 @@
+/* Used ChatGPT to help style */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+.container {
+    max-width: 800px;
+}
+
+.card {
+    border-radius: 12px;
+    border: none;
+}
+
+.list-group-item {
+    border: none;
+    border-bottom: 1px solid #ddd;
+}
+
+.list-group-item a {
+    color: #333;
+    transition: color 0.3s ease-in-out;
+}
+
+.list-group-item a:hover {
+    color: #007bff;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+}
+
+h1, h2 {
+    color: #343a40;
+}
