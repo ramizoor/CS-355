@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To-Read List</title>
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>To-Read List</h1>
+    <ul>
+      {{#each books}}
+        <li>
+          <a href="/books/{{this.id}}">{{this.title}}</a> by {{this.author}}
+        </li>
+      {{/each}}
+    </ul>
+
+    <form id="addBookForm" action="/books" method="POST">
+      <input type="text" name="title" placeholder="Book Title" required>
+      <input type="text" name="author" placeholder="Author" required>
+      <input type="text" name="status" placeholder="Status" required>
+      <button type="submit">Add Book</button>
+    </form>
+  </div>
+</body>
+</html>
